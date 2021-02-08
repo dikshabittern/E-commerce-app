@@ -66,7 +66,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # gem 'bootstrap-sass'
 gem 'bootstrap', '~> 4.0.0'
 # ============ Image Uploader =======
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 # ========= Pagination ==============
 gem 'will_paginate-bootstrap'
 # ========= Bootstrap-Glyphicon =====
